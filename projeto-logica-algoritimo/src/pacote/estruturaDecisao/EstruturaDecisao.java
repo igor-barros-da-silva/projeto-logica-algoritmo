@@ -1,6 +1,6 @@
-package pacote.estruturaDecisao1;
+package pacote.estruturaDecisao;
 
-public class EstruturaDecisao1 {
+public class EstruturaDecisao {
 
 	public static void main(String[] args) {
 
